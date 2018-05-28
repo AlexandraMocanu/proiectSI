@@ -5,6 +5,7 @@ Robert - Bogdan CAZACU
 Alexandra - Mirela MOCANU
 
 
+
 Realizarea unei versiuni simplificate a jocului Arkanoid (2 studenţi)
 
 Caracteristici:
